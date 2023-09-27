@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Calculadora_IMC_Dart
+Um pequeno trecho de código onde uso a linguagem Dart para fazer uma calculadora IMC
